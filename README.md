@@ -1,7 +1,8 @@
 | 图标 | 语言 |
 | :----: | :----: |
-| <kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd> | **简体中文** |
+| [<kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd>](/README.md) | [**简体中文**](/README.md) |
 | [<kbd><img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"></kbd>](/i18n/README/README-en.md) | [English](/i18n/README/README-en.md) |
+| [<kbd><img alt="日本語" title="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22"></kbd>](/i18n/README/README-jp.md) | [日本語](/i18n/README/README-jp.md) |
 
 # 关于 STP
 

@@ -6,7 +6,9 @@
 | [<kbd><img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22"></kbd>](/i18n/README/README-fr.md) | [Français](/i18n/README/README-fr.md) |
 
 # À propos du projet Satwiki Translate
+
 **[S](https://sat.huijiwiki.com/)TP** ([Satwiki](https://sat.huijiwiki.com/) Translate Project ou [Satwiki](https://sat.huijiwiki.com/)'s Translation Project) est un projet permettant de traduire du texte ou des fichiers, puis de mieux les utiliser. 
 
 # Histoire
-**[S](https://sat.huijiwiki.com/)TP** a été créé par @雨伞CKY (GitHub @yusancky ) et a commencé à héberger sur GitHub par @Aoeer39 (GitHub @aoeer39 ) le 17/08/2022. 
+
+- **STP** a été créé par **[@雨伞CKY ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:%E9%9B%A8%E4%BC%9ECKY)** (GitHub **[@yusancky ](https://github.com/yusancky/)**) et a commencé à héberger sur GitHub par **[@Aoeer39 ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:aoeer39)** (GitHub **[@aoeer39 ](https://github.com/aoeer39/)**) le 17/08/2022. 

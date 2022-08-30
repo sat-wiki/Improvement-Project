@@ -7,4 +7,4 @@
 | [<kbd><img alt="Русский" title="Русский" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22"></kbd>](/i18n/README/README-ru.md) | [Русский](/i18n/README/README-ru.md) |
 
 # STPについて
-STPは、テキスト(または文書)を翻訳し、衛星百科医のより良いプログラムを作るために衛星百科に翻訳されたコンテンツを使用するプログラムです。
+** STPは、テキスト(または文書)を翻訳し、衛星百科医のより良いプログラムを作るために衛星百科に翻訳されたコンテンツを使用するプログラムです。

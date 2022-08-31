@@ -5,5 +5,6 @@
 | [<kbd><img alt="日本語" title="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22"></kbd>](/i18n/README/README-jp.md) | [**日本語**](/i18n/README/README-jp.md) |
 | [<kbd><img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22"></kbd>](/i18n/README/README-fr.md) | [Français](/i18n/README/README-fr.md) |
 
-> **Note**
-> この記事は [`/README.md`](/README.md) から翻訳する必要がありますが、まだ翻訳されていません。
+# STP について
+
+**[S](https://sat.huijiwiki.com/)TP** は、テキスト(または文書)を翻訳し、[衛星百科](https://sat.huijiwiki.com/)医のより良いプログラムを作るために[衛星百科](https://sat.huijiwiki.com/)に翻訳されたコンテンツを使用するプログラムです。

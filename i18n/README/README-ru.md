@@ -7,4 +7,5 @@
 | [<kbd><img alt="Русский" title="Русский" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22"></kbd>](/i18n/README/README-ru.md) | [**Русский**](/i18n/README/README-ru.md) |
 
 # О компании STP
+
 **[S](https://sat.huijiwiki.com/)TP** - это план сделать [Satwiki](https://sat.huijiwiki.com/) все лучше и лучше, переводя текст (или файлы) и используя переведенный контент на [Satwiki](https://sat.huijiwiki.com/).

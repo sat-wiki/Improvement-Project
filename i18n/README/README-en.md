@@ -1,4 +1,4 @@
-| 图标 | 语言 |
+| Icon | Language |
 | :----: | :----: |
 | [<kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd>](/README.md) | [简体中文](/README.md) |
 | [<kbd><img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"></kbd>](/i18n/README/README-en.md) | [**English**](/i18n/README/README-en.md) |

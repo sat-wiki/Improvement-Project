@@ -1,9 +1,4 @@
-| 图标 | 语言 |
-| :----: | :----: |
-| [<kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd>](/README.md) | [简体中文](/README.md) |
-| [<kbd><img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"></kbd>](/i18n/README/README-en.md) | [English](/i18n/README/README-en.md) |
-| [<kbd><img alt="日本語" title="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22"></kbd>](/i18n/README/README-jp.md) | [日本語](/i18n/README/README-jp.md) |
-| [<kbd><img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22"></kbd>](/i18n/README/README-fr.md) | [**Français**](/i18n/README/README-fr.md) |
+<p align="center"><a href = "/README.md"><kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd></a> <a href = "/i18n/README/README-en.md"><kbd><img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"></kbd></a> <a href = "/i18n/README/README-fr.md"><kbd><img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22"></kbd></a> <a href = "/i18n/README/README-jp.md"><kbd><img alt="日本語" title="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22"></kbd></a> <a href = "/i18n/README/README-ru.md"><kbd><img alt="Русский" title="Русский" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22"></kbd></a> <a href = "/i18n/README/langs.md"><kbd>All Languages</kbd></a></p>
 
 # À propos du projet Satwiki Translate
 

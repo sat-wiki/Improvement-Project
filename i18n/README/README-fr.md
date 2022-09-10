@@ -7,3 +7,4 @@
 # Histoire
 
 - **STP** a été créé par **[@雨伞CKY ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:%E9%9B%A8%E4%BC%9ECKY)** (GitHub **[@yusancky ](https://github.com/yusancky/)**) et a commencé à héberger sur GitHub par **[@Aoeer39 ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:aoeer39)** (GitHub **[@aoeer39 ](https://github.com/aoeer39/)**) le 17/08/2022. 
+- **STP** a traduit le premier fichier ('Comparison_satellite_navigation_orbits.svg' / Voir à [GitHub](https://github.com/aoeer39/satwiki-translate-project/blob/main/file/Comparison_satellite_navigation_orbits/Comparison_satellite_navigation_orbits.svg) ou [Satwiki](https://sat.huijiwiki.com/) du 17/08/2022 au 18/08/2022 par **[@雨伞CKY ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:%E9%9B%A8%E4%BC%9ECKY)** (GitHub **[@yusancky ](https://github.com/yusancky/)**) et **[@Aoeer39 ](https://sat.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:aoeer39)** (GitHub **[@aoeer39](https://github.com/aoeer39/)** ). 

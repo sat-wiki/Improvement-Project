@@ -1,2 +1,6 @@
-- name: Super-Linter
-  uses: github/super-linter@v4.9.5
+name: 'Run Super-Linter'
+on: [push]
+jobs: 
+  lint:
+    name: Super-Linter v4.9.5
+    uses: github/super-linter@v4.9.5

@@ -1,0 +1,12 @@
+name: 'Lint'
+on:
+  pull_request:
+    paths:
+      - '**.md'
+jobs:
+  lint:
+    name: 'Super-Linter v4.9.5'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Lint'
+        uses: github/super-linter@v4.9.5

@@ -3,6 +3,7 @@ on:
   pull_request:
     paths:
       - '**.md'
+      - '**.yml'
 jobs:
   lint:
     name: 'Super-Linter v4.9.5'

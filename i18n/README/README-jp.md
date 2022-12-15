@@ -1,5 +1,0 @@
-<p align="center"><a href = "/README.md"><kbd><img alt="简体中文" title="简体中文" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"></kbd></a> <a href = "/i18n/README/README-en.md"><kbd><img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"></kbd></a> <a href = "/i18n/README/README-fr.md"><kbd><img alt="Français" title="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22"></kbd></a> <a href = "/i18n/README/README-jp.md"><kbd><img alt="日本語" title="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22"></kbd></a> <a href = "/i18n/README/README-ru.md"><kbd><img alt="Русский" title="Русский" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22"></kbd></a> <a href = "/i18n/README/langs.md"><kbd>All Languages</kbd></a></p>
-
-# STP について
-
-**[S](https://sat.huijiwiki.com/)TP** は、テキスト(または文書)を翻訳し、[衛星百科](https://sat.huijiwiki.com/)医のより良いプログラムを作るために[衛星百科](https://sat.huijiwiki.com/)に翻訳されたコンテンツを使用するプログラムです。

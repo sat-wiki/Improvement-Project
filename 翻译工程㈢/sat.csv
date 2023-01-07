@@ -1,127 +1,234 @@
-卫星,image,中文名称,英文名称,国籍,研发机构,任务类型,轨道类型,轨道高度,轨道倾角,运载火箭,发射日期,发射基地,设计寿命,质量,国际卫星标识符,NORAD,备注,文件名
-欧洲通信卫星连接者VHTS(系列星),Eutelsat Konnect VHTS,,Eutelsat Konnect VHTS,International,Thales Alenia Space,Communication,,GEO,,Ariane-5ECA+,2022年9月7日,Ko ELA-3,15 years,6396 kg,2022-110A,,,
-夏尔巴LTC星2号,"Sherpa-LTC 1, 2",,Sherpa-LTC 2 (Varuna-TDM),USA,Spaceflight Inc.,Satellite deployment,,"500 km SSO; 1056 km, 54° (#2)",,Falcon-9 v1.2 (Block 5),2022年9月5日,CC SLC-40,2 years (#2),180 kg; 140 kg dry (#2),2022-107BE,,,
-遥感三十三号02星,"Yaogan 29, 33, 33R",,"Yaogan 33-02 (YG 33-02, JB-x 4)",China,SAST,Earth observation (radar),,"615 km × 619 km, 97.8° (#29); 682 km × 686 km, 98.3° (#33R)",,CZ-4C,2022年9月2日,Jq LC-43/94,,,2022-106A,,,
-试验十七号卫星,SY 17,,SY 17,China,CAST DFH,Technology,,,,CZ-6,2022年9月26日,TY LC-16,,,2022-121,,,
-试验十四号卫星,SY 14,,SY 14,China,,Technology,,,,Kuaizhou-1A,2022年9月24日,TY,,,2022-118,,,
-锁眼11-19,KH-11 / Kennen / Crystal,,"KH-11 19 (Crystal 19, USA 338, NROL 91)",USA,Lockheed → Lockheed Martin,"Reconnaissance, electro-optical",,"300 × 500 km (#1 - #5); 300 × 1000 km, 97° (#6 - #9); 395 km × 419 km, 73.57° (#17)",,Delta-4H (upg.),2022年9月24日,Va SLC-6,,13500 kg - 17000 kg,2022-117A,,,
-试验十五号卫星,SY 15,,SY 15,China,,Technology,,,,Kuaizhou-1A,2022年9月24日,TY,,,2022-118,,,
-云海一号03星,"Yunhai-1 01, 02, 03",,Yunhai-1 03,China,SAST,"Meteorology, earth observation",,"760 km × 787 km, 98.5° (#1)",,CZ-2D (2),2022年9月21日,Jq LC-43/94,,,2022-115A,,,
-条纹X-1,"StriX 1, ..., 25",,StriX 1,Japan,Synspective,"Earth observation, radar",,,,Electron KS,2022年9月15日,OnS LC-1B,,100 kg,2022-113A,,,
-中星1E,"FH 2A, 2B, 2C (ZX 1A, 1B, 1C)",,"FH 2E (ZX 1E, ChinaSat 1E)",China,CAST,Communication,,GEO,,CZ-7A,2022年9月13日,We LC-201,11 years,5320 kg,2022-112A,,,
-蓝行者3号,BlueWalker 3 (BW 3),,BlueWalker 3 (BW 3),USA,AST & Science,"Communications, technology",,,,Falcon-9 v1.2 (Block 5),2022年9月11日,CCK LC-39A,,~1500 kg,2022-111AL,,,
-东海一号,Donghai 1,,Donghai 1,China,,,,,,Ceres-1 (3) (Gushenxing-1 (3)),2022年8月9日,Jq LC-43/95A,,,2022-095,,,
-,Siren (LILAC),,"Siren (LILAC, RS 30S)",Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096Q,,,
-,ISOI,,ISOI (RS 19S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096M,,,
-海亚姆1号,"Khayyam 1, 2, 3, 4",,Khayyam 1,Iran,VNIIEM ?,Earth observation,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096A,,,
-,Kuzbass-300,,Kuzbass-300 (RS 34S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096F,,,
-,VIZARD SS1 (RS 33S),,VIZARD SS1 (RS 33S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096S,,,
-高等经济大学立方星2号,CubeSX-HSE / CubeSX-Sirius-HSE,,CubeSX-HSE 2 (RS 21S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096P,,,
-,KAI 1,,KAI 1 (RS 26S),Russia,,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096J,,,
-,CYCLOPS,,CYCLOPS (RS 29S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096D,,,
-莫电子AIS,MIET-AIS,,MIET-AIS (RS 28S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096H,,,
-,"Monitor 1 (KODIZ, RS 32S)",,"Monitor 1 (KODIZ, RS 32S)",Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096E,,,
-,Geoskan-Edelveis (RS 20S),,Geoskan-Edelveis (RS 20S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096R,,,
-,UTMN,,UTMN (RS 23S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096G,,,
-,ReshUCube,,ReshUCube (RS 8S),Russia,SPUTNIX,Technology,,,,Soyuz-2-1b Fregat,2022年8月9日,Ba LC-31/6,,,2022-096N,,,
-,AzaadiSAT,,AzaadiSAT,India,Space Kidz India,"Education, technology",,,,SSLV,2022年8月7日,Sr FLP,,8 kg,2022-F04,,,
-微卫星2A星(已有),Microsat 2A (EOS 02),,Microsat 2A (EOS 02),India,ISRO,"Earth observation, technology",,350 km,,SSLV,2022年8月7日,Sr FLP,10 months,135 kg,2022-F04,,,
-可重复使用试验航天器(已有),Chongfu Shiyong Shiyan Hangtian Qi (CSSHQ),,Chongfu Shiyong Shiyan Hangtian Qi 2 (CSSHQ 2),China,,Space plane,,"332 km × 348 km, 50.20°",,CZ-2F/T,2022年8月4日,Jq LC-43/91,,8500 kg,2022-093A,,,
-天基红外系统GEO-6(系列星),"SBIRS-GEO 5, 6",,SBIRS-GEO 6 (USA 336),USA,Lockheed Martin,Early Warning,,GEO,,Atlas-5(421)²,2022年8月4日,CC SLC-41,12 years,~ 4500 kg,2022-092A,,,
-闵行少年星,Minhang Shaonian,,Minhang Shaonian,China,,,,517 km SSO,,CZ-4B,2022年8月4日,TY LC-9,4 years,~500 kg,2022-090,,,
-句芒号,TECIS (Guomang),,TECIS (Guomang),China,,Earth Science,,517 km SSO,,CZ-4B,2022年8月4日,TY LC-9,4 years,~500 kg,2022-090,,,
-韩国探路者月球轨道器(已有),KPLO (Danuri),,KPLO (Danuri),South Korea,KARI,Lunar orbiter,,"100 km × 300 km, 90° lunar orbit",,Falcon-9 v1.2 (Block 5),2022年8月4日,CC SLC-40,1 year (on orbit),678 kg,2022-094A,,,
-北京三号B星,Beijing 3B,,Beijing 3B (Nanning 1),China,CAST,Earth observation,,,,CZ-2D (2),2022年8月24日,TY LC-9,8 years,,2022-103A,,,
-模块化情报监视侦察B-1(已有但更名),MISR-B 1,,MISR-B 1,USA,?,"SIGINT, Technology",,,,LauncherOne,2022年7月2日,Mo RW12/30,,,2022-074F,,,
-反曲弓号(已有),Recurve,,Recurve,USA,Air Force Research Laboratory (AFRL),Technology,,,,LauncherOne,2022年7月2日,Mo RW12/30,,,2022-074A,,,
-全球定位新可能2号(已有),GPX 2,,GPX 2,USA,NASA Langley Research Center,Technology,,,,LauncherOne,2022年7月2日,Mo RW12/30,,3.4 kg,2022-074E ?,,,
-弹弓1号(已有),Slingshot 1,,Slingshot 1,USA,The Aerospace Corporation,Technology,,,,LauncherOne,2022年7月2日,Mo RW12/30,,,2022-074D,,,
-硝烟L1(已有),"Gunsmoke-L 1, 2 (Lonestar 1, 2)",,Gunsmoke-L 1 (ex Lonestar 1),USA,Dynetics (prime); Blue Canyon Technologies (satellite),Technology,,,,LauncherOne,2022年7月2日,Mo RW12/30,,10 kg,2022-074H,,,
-小型全辐射照度监视器,CTIM-FD,,CTIM-FD,USA,University of Colorado at Boulder,"Technology, Earth science",,,,LauncherOne,2022年7月2日,Mo RW12/30,1 year,x kg,2022-074G,,,
-南粤科学星(已有),Huawan-Nanyue Kexue,,Huawan-Nanyue Kexue,China,SAST,Technology,,,,Zhongke-1A (Lijian-1),2022年7月27日,Jq LP-43/130,,,2022-087,,,
-低轨道量子密钥分发试验卫星,Jinan 1 (Diguidao Lianzi Miyao Fenfao),,Jinan 1 (Diguidao Lianzi Miyao Fenfao),China,,Technology,,,,Zhongke-1A (Lijian-1),2022年7月27日,Jq LP-43/130,,94 kg,2022-087,,,
-空间新技术试验卫星,SATech 01 (Kongjian Xinjishu Shiyan 01),,SATech 01 (Kongjian Xinjishu Shiyan 01),China,,Technology,,,,Zhongke-1A (Lijian-1),2022年7月27日,Jq LP-43/130,,622 kg,2022-087,,,
-轨道大气密度探测试验卫星,GDMTSW,,GDMTSW,China,,Technology,,,,Zhongke-1A (Lijian-1),2022年7月27日,Jq LP-43/130,,42 kg,2022-087,,,
-问天实验舱(已有),Wentian,,Wentian,China,,Space station,,,,CZ-5B,2022年7月24日,We LC-101,10 years,~22000 kg,2022-085A,,,
-美国337号,USA 337,,USA 337,USA,AFRL ?,Technology,,"38992 km × 38992 km, 0.0°",,Atlas-5(541)²,2022年7月1日,CC SLC-41,,,2022-073E,,,
-宽视场试验台(已有),WFOV-T,,"WFOV-T (USA 332, USSF 12, AFSPC 12)",USA,Millennium Space Systems (bus); L-3 Communications → L3 Harris (sensor),Early Warning,,GEO,,Atlas-5(541)²,2022年7月1日,CC SLC-41,3-5 years,3000 kg,2022-073A,,,
-美国333号(已有),USSF-12 Ring,,USSF-12 Ring (USA 333),USA,Northrop Grumman,Technology,,GEO,,Atlas-5(541)²,2022年7月1日,CC SLC-41,,,2022-073B,,,
-地球表面矿物尘源调查,EMIT,,EMIT,USA,NASA,Earth observation,,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,,N/A,,,
-海狸立方星,BeaverCube,,BeaverCube,USA,Massachusetts Institute of Technology (MIT),"Technology, education",,"411 km × 415 km, 51.64°",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,,1998-067UF,,,
-幸福科学大学卫星1号,HSU-SAT 1,,HSU-SAT 1,Japan,"Happy Science University in Chosei, Chiba","Technology, education",,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,~ 6 months,1 kg,1998-067UB,,,
-拖动离轨装置,D3,,D3,USA,"University of Florida, Gainesville",Technology,,,,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,2 kg,1998-067UE,,,
-摩尔多瓦技术大学微纳卫星,TUMnanoSAT,,TUMnanoSAT,Moldova,Technical University of Moldova (TUM),Technology,,"400 km × 400 km, 51.64° (typically)",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,1 kg,1998-067UD,,,
-激光红外交联立方星A星,"CLICK A, B, C",,CLICK A,USA,Massachusetts Institute of Technology / Space Systems Laboratory; Blue Canyon Technologies (BCT) (bus),Technology,,"410 km × 415 km, 51.64° (#A)",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,,1998-067UG,,,
-帽子卫星1号,CapSat 1,,CapSat 1,USA,Weiss School,Technology,,,,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,1 kg,1998-067UH,,,
-双叶号,FUTABA,,FUTABA,Japan,Kyushu Institute of Technology (Kyutech),"Technology, education",,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,~ 6 months,1 kg,1998-067UC,,,
-等离子体电子密度测量卫星1号,JAGSAT 1,,JAGSAT 1,USA,University of South Alabama,Technology,,"412 km × 414 km, 51.64°",,Falcon-9 v1.2 (Block 5),2022年7月15日,CCK LC-39A,,x kg,1998-067UJ,,,
-“三”卫星-R,TRISAT R,,TRISAT R,Slovenia,University of Maribor,"Technology, education",,,,Vega-C,2022年7月13日,Ko ELV,6 years,5 kg,2022-080D,,,
-钢片琴,CELESTA (ROBUSTA 1D),,CELESTA (ROBUSTA 1D),France,"CERN, University of Montpellier II",Technology,,,,Vega-C,2022年7月13日,Ko ELV,2 years,1 kg,2022-080G,,,
-太空生物立方星,Astrobio Cubesat (ABCS),,Astrobio Cubesat (ABCS),Italy,La Sapienza University of Rome,"Technology, life sciences",,,,Vega-C,2022年7月13日,Ko ELV,,,2022-080C,,,
-记忆测试卫星2号,"MTCube 1, 2 (ROBUSTA 1C, 1F)",,MTCube 2 (ROBUSTA 1F),France,University of Montpellier II,Technology,,,,Vega-C,2022年7月13日,Ko ELV,2 years,1 kg,2022-080B,,,
-激光相对论卫星2号(已有),LARES 2,,LARES 2,Italy,,"Basic research, Geodesy",,"5899 km × 5899 km, 70.16°",,Vega-C,2022年7月13日,Ko ELV,Indefinite,387 kg,2022-080A,,,
-阿尔法(重名),ALPHA,,ALPHA,Italy,"ARCA Dynamics (prime), Spacemind",Technology,,,,Vega-C,2022年7月13日,Ko ELV,,1 kg,2022-080F,,,
-绿色植物立方卫星,GreenCube,,GreenCube,Italy,"ENEA, University of Naples “Federico II”","Technology, life sciences",,,,Vega-C,2022年7月13日,Ko ELV,,,2022-080E,,,
-天链二号03星,"Tianlian-2 01, 02, 03 (TL 2A, 2B, 2C)",,Tianlian-2 03 (TL 2C),China,CAST,Communication,,GEO,,CZ-3B/G3,2022年7月12日,Xi LC-2,,,2022-078A,,,
-中国业余无线电卫星5B,CAS 5B,,CAS 5B,China,CAMSAT,"Education, amateur radio communication, technology",,,,Jielong-3,2022年12月9日,@YS (Tai Rui),,,2022-167,,,
-丰台少年二号,CAS 5A (Fengtai Shaonian 2),,CAS 5A (Fengtai Shaonian 2),China,CAMSAT,"Education, amateur radio communication, technology",,,,Jielong-3,2022年12月9日,@YS (Tai Rui),,,2022-167C,,,
-天启星座07星,"Tianqi 7, 8, 9, 14, 15",,"Tianqi 7 (TQ 7, Dasong Guanyao)",China,Guodian Gaoke,Communication  M2M/IoT,,,,Jielong-3,2022年12月9日,@YS (Tai Rui),,~50 kg,2022-167,,,
-高分五号01A星,Gaofen 5-01A (GF 5-01A),,Gaofen 5-01A (GF 5-01A),China,SAST,Earth observation,,,,CZ-2D (2),2022年12月8日,TY LC-9,8 years,,2022-079A,,,
-行云交通VDES试验卫星,Xingyun Jiaotong VDES Shiyan,,Xingyun Jiaotong VDES Shiyan (Hangtian Jinzu 1),China,CASIC,Communication,,,,Kuaizhou-11,2022年12月7日,Jq LP-43/95B,,,2022-164A,,,
-地球远程观测系统C3-1,"EROS C3-1, C3-2",,EROS C3-1,Israel,IAI,Earth observation,,"485 km × 503 km, 139.36°",,Falcon-9 v1.2 (Block 5),2022年12月30日,Va SLC-4E,10 years,~400 kg,2022-178A,,,
-高分十一号04星,"Gaofen 11-01, ..., 11-04 (GF 11, ..., 11-04)",,Gaofen 11-04 (GF 11-04),China,,Earth observation,,"248 km × 694 km, 97.4°",,CZ-4B,2022年12月27日,TY LC-9,,,2021-176A,,,
-试验二十一号卫星,SY 21,,SY 21,China,SAST,?,,,,CZ-11,2022年12月16日,Xi LC-4,,,2022-172A,,,
-地表水和海洋地形卫星,SWOT,,SWOT,"USA, France",Thales Alenia Space,"Altimetry, Radar",,"890 km × 890 km, 77.6°",,Falcon-9 v1.2 (Block 5),2022年12月16日,Va SLC-4E,3 years (design),~ 2200 kg,2022-173A,,,
-气象卫星三代-成像1号,"MTG-I 1, 2, 3, 4 (Meteosat 12, 14, 15, 17)",,MTG-I 1 (Meteosat 12),Europe,"Thales Alenia Space (prime), OHB-System GmbH (bus)",Meteorology,,GEO,,Ariane-5ECA+,2022年12月13日,Ko ELA-3,8.5 years,3760 kg (#1),2022-170C,,,
-白兔R-M1,"Hakuto-R M1, M2",,Hakuto-R M1,Japan,"ispace, JAL Engineering Co., ArianeGroup",Lunar lander,,,,Falcon-9 v1.2 (Block 5),2022年12月11日,CC SLC-40,,~1000 kg; 340 kg (dry),2022-168A,,,
-月球手电筒,Lunar Flashlight,,Lunar Flashlight,USA,NASA Jet Propulsion Laboratory,Lunar orbiter,,Lunar orbit,,Falcon-9 v1.2 (Block 5),2022年12月11日,CC SLC-40,< 2 years,~14 kg,2022-168B,,,
-太空金枪鱼1号,SpaceTuna 1,,SpaceTuna 1,Japan,Kindai University,"Technology, education",,"400 km × 400 km, 51.6° (typical)",,Antares-230+,2022年11月7日,WI LC-0A,~ 6 months,1 kg,TBD,,,
-塔卡,Bird (2U)(Taka),,Taka,"Japan, Bangladesh, Ghana, Mongolia, Nigeria, Philippines, Bhutan, Malaysia, Nepal, Sri Lanka, Paraguay, Uganda, Zimbabwe",Kyushu Institute of Technology (Kyutech),"Technology, education",,"400 km × 400 km, 51.6° (typical)",,Antares-230+,2022年11月7日,WI LC-0A,~ 6 months,1 kg,TBD,,,
-中间层气辉/气溶胶层析成像和光谱,MATS,,MATS,Sweden,"OHB Sweden, ÅAC Microtec (bus); Department of Meteorology (MISU) at Stockholm University, Department of Earth and Space Sciences at Chalmers, Space and Plasma Physics Group at KTH, Omnisys Instruments (payload)",Aeronomy,,"580 km × 598 km, 97.7°",,Electron KS (R),2022年11月4日,OnS LC-1B,2 years,50 kg,2022-147A,,,
-苔原16L,"Tundra (Kupol, EKS, 14F142)",,"Kosmos 2563 (Tundra 16L, Kupol 16L, EKS #6)",Russia, TsNII Kometa (prime); RKK Energiya (bus),"Early warning, communication",,"1626 km × 38552 km, 63.37° (#1)",,Soyuz-2-1b Fregat,2022年11月2日,Pl LC-43/4,7.5 years,,2022-145A,,,
-飓风M-61,"Uragan-M (GLONASS-M, 14F113)",,"Kosmos 2564 (Uragan-M #61, GLONASS-M №761)",Russia,NPO Prikladnoi Mekhaniki (NPO PM),Navigation,,"19100 km × 19100 km, 64.8° (typical)",,Soyuz-2-1b Fregat,2022年11月28日,Pl LC-43/3,7 years,1415 kg,2022-161A,,,
-但丁卫星,DANTESat,,DANTESat,Italy,Spacemind,Technology,,,,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,,TBD,,,
-印度纳卫星2B,INS 2B (BhutanSat),,INS 2B (BhutanSat),"India, Bhutan",ISRO,"Technology, earth observation",,,,PSLV-XL,2022年11月26日,Sr FLP,6 months,18 kg,2022-158E,,,
-低轨道侦察图像卫星,LORIS (DUCS),,LORIS (DUCS),Canada,Dalhousie University CubeSat,Technology,,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,,TBD,,,
-苏里亚卫星1号,SS 1 (Surya Satellite 1),,SS 1 (Surya Satellite 1),Indonesia,Surya University,Technology,,"400 km × 400 km, 51.6° (typical",,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,1 kg,TBD,,,
-皮克塞尔TD-1,Pixxel-TD 1 (Anand),,Pixxel-TD 1 (Anand),India,Pixxel,Earth observation,,,,PSLV-XL,2022年11月26日,Sr FLP,,16.5 kg,2022-158F,,,
-海洋卫星3号,"Oceansat 3, 3A (EOS 06)",,Oceansat 3 (EOS 06),India,ISRO,Earth observation,,"729 km × 748 km, 98.34°",,PSLV-XL,2022年11月26日,Sr FLP,,1117 kg,2022-158A,,,
-电离层-热层等离子体增强卫星,PetitSat,,PetitSat,USA,NASA Goddard Space Flight Center,Ionospheric research,,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,,TBD,,,
-闪烁预测观测研究任务,SPORT,,SPORT,"Brazil, USA","ITA, NASA, Aerospace Corp.",Technology,,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,1 year,,TBD,,,
-托马斯杰斐逊高中科研教育评估无线电广播卫星,TJREVERB,,TJREVERB,USA,"Thomas Jefferson High School (TJHSST), Alexandria, Virginia",Technology,,"400 km × 400 km, 51.6° (typical)",,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,2 kg,TBD,,,
-在轨致动器响应和阻抗测量卫星,MARIO,,MARIO,USA,"University of Michigan, Ann Arbor",Technology,,,,Falcon-9 v1.2 (Block 5),2022年11月26日,CCK LC-39A,,,TBD,,,
-欧洲通信卫星10B,Eutelsat 10B,,Eutelsat 10B,International,Thales Alenia Space,Communication,,GEO,,Falcon-9 v1.2 (Block 5)(ex),2022年11月23日,CC SLC-40,15 years,5500 kg,2022-157A,,,
-牧羊人示范卫星,Shepherd Demonstration,,"Shepherd Demonstration (USA 339, USSF 44 PL1, AFSPC 44 PL1)",USA,,Technology,,GEO,,Falcon-Heavy (Block 5)(px),2022年11月1日,CCK LC-39A,,,2022-144B,,,
-阿尔派,Alpine,,Alpine,USA,Millennium Space Systems,Technology,,,,Falcon-Heavy (Block 5)(px),2022年11月1日,CCK LC-39A,,,2022-144,,,
-四元星(已有),Tetra 1,,Tetra 1 (USSF 44 PL2),USA,Millennium Space Systems,Technology ?,,GEO,,Falcon-Heavy (Block 5)(px),2022年11月1日,CCK LC-39A,,,2022-144,,,
-LDPE卫星2号,"LDPE 1, 2, 3A (ROOSTER 1, 2, 3A)",,LDPE 2 (ROOSTER 2),USA,Orbital ATK → Northrop Grumman,Technology,,GEO,,Falcon-Heavy (Block 5)(px),2022年11月1日,CCK LC-39A,1 year,,2022-144A,,,
-阿尔忒弥斯1号(已有),Orion (MPCV),,Artemis 1 (Orion CM-002) (ex EM 1),USA,"Lockheed Martin (prime, capsule); EADS Astrium → Airbus Defence and Space (service module)",Crewed spacecraft,,,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,180 days,25848 kg (total); 10387 kg (capsule); 15461 kg (service module),2022-156A,,,
-迈尔斯,Miles,,Miles,USA,Team Miles,"Technology, interplanetary",,Solar orbit,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-阿尔戈月球立方星,ArgoMoon,,ArgoMoon,Italy,Argotec,Lunar flyby,,Lunar fly-by,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-太阳粒子研究立方星任务,CuSP (CuSPP+),,CuSP (ex CuSPP+),USA,SwRI,"Ionosphere, magnetosphere",,Solar orbit,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,90 days (prime mission),,2022-156,,,
-月球冰立方卫星,Lunar-IceCube,,Lunar-IceCube,USA,Morehead State University,Lunar orbiter,,Lunar orbit,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-近地小行星侦察兵卫星,NEA-Scout,,NEA-Scout,USA,NASA Jet Propulsion Laboratory,Asteroid fly-by,,,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,2.5 years,~12 kg,2022-156,,,
-月球极区氢绘图仪立方星,LunaH-Map (SIMPLEx 1),,LunaH-Map (SIMPLEx 1),USA,NASA Jet Propulsion Laboratory,Lunar orbiter,,Lunar orbit,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,< 2 years,~14 kg,2022-156,,,
-地月拉格朗日点6U立方星,EQUULEUS,,EQUULEUS,Japan,"JAXA, University of Tokyo",Lunar flyby,,"Lunar fly-by, Earth-Moon Lagrangian points",,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-月球红外成像立方星,LunIR (SkyFire),,LunIR (ex SkyFire),USA,"Lockheed Martin; Tyvak Nano-Satellite Systems, Inc. (bus)",Lunar flyby,,Lunar fly-by,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-好客号,OMOTENASHI,,OMOTENASHI,Japan,"JAXA, University of Tokyo",Lunar flyby,,Lunar fly-by,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-生物哨兵卫星,BioSentinel,,BioSentinel,USA,NASA Ames Research Center,Life science,,Solar orbit,,SLS (Block 1) iCPS,2022年11月16日,CCK LC-39B,,~14 kg,2022-156,,,
-澳门学生科普卫星一号,"XW 4 (CAS 10, Macau Student Science 1)",,"XW 4 (CAS 10, Macau Student Science 1)",China,CAMSAT,"Amateur radio communication, technology",,,,CZ-7,2022年11月12日,We LC-201,,,2022-152C,,,
-云海三号01星,Yunhai-3 01,,Yunhai-3 01,China,,"Meteorology, earth observation",,,,CZ-6A,2022年11月11日,TY LC-9A,,,2022-151A,,,
-充气减速器低地球轨道飞行测试,LOFTID,,LOFTID,USA,"NASA Langley Research Center, ULA",Technology,,,,Atlas-5(401),2022年11月10日,Va SLC-3E,< 1 day,1224 kg,2022-150#,,,
-国家海洋和大气管理局21号,"JPSS 2, 3, 4",,JPSS 2 (NOAA 21),USA,Northrop Grumman Innovation Systems (NGIS) (formerly Orbital ATK),Meteorology,,824 km SSO,,Atlas-5(401),2022年11月10日,Va SLC-3E,7 years,2930 kg,2022-150A,,,
-先进天基太阳天文台(已有),ASO-S (Kuafu),,ASO-S (Kuafu),China,,"Astronomy, solar",,720 km SSO,,CZ-2D (2),2022年10月8日,Jq LC-43/94,4 years,888 kg,2022-129A,,,
-,GAzelle (Argos-4),,GAzelle (Argos-4) (ex OTB 3),USA,General Atomics Electromagnetic Systems Group (GA-EMS),Technology,,,,Electron KS,2022年10月7日,OnS LC-1B,5 years,,2022-127A,,,
-梦天实验舱(已有),Mengtian,,Mengtian,China,,Space station,,,,CZ-5B,2022年10月31日,We LC-101,10 years,~20000 kg,2022-143A,,,
-斯基泰人D星,Skif-D (14F149),,Skif-D (14F149 №Kh001),Russia,ISS Reshetnev,Communication,,,,Soyuz-2-1b Fregat,2022年10月22日,Vo LC-1S,,160 kg,2022-139,,,
-福萨卫星1b(2)(系列星),"FossaSat 1, 1b",,FossaSat 1b (2),Spain,,Technology,,,,Firefly-Alpha,2022年10月1日,Va SLC-2W,,0.2 kg,2022-122#,,,
-科技教育卫星15号(系列星),TechEdSat 15 (TES 15),,TechEdSat 15 (TES 15),USA,NASA Ames Research Center,"Technology, education",,,,Firefly-Alpha,2022年10月1日,Va SLC-2W,,,2022-122C ?,,,
-,Serenity,,Serenity (2),USA,Teachers in Space,Technology,,,,Firefly-Alpha,2022年10月1日,Va SLC-2W,,,2022-122A ?,,,
-,Spinnaker-3 (CP 15) / Firefly Capsule 1,,Firefly Capsule 2,USA,"Cal Poly Cubesat Lab, Purdue University, NASA, Firefly Aerospace",Technology,,,,Firefly-Alpha,2022年10月1日,Va SLC-2W,,,2022-122E,,,
-环境减灾二号E星,"HJ 2E, 2F",,HJ 2E (5m S-SAR 01),China,DFH Satellite Co. Ltd of CAST,"Earth observation, radar",,,,CZ-2C (3),2022年10月13日,TY LC-9,,,2022-132A,,,
-快速创新载荷演示卫星3号,RAISE 3,,RAISE 3,Japan,JAXA,Technology,,,,Epsilon (2) CLPS,2022年10月12日,Ka LP-M,14  months,110 kg,2022-F05,,,
-未来科学研究所卫星,FSI-SAT,,FSI-SAT,Japan,Future Science Institute,Technology,,,,Epsilon (2) CLPS,2022年10月12日,Ka LP-M,,1 kg,2022-F05,,,
-三叶号,MITSUBA,,MITSUBA,Japan,Kyushu Institute of Technology,Technology,,,,Epsilon (2) CLPS,2022年10月12日,Ka LP-M,,1.7 kg,2022-F05,,,
-弧线2号,KOSEN 2,,KOSEN 2,Japan,Kochi National College of Technology,Technology,,,,Epsilon (2) CLPS,2022年10月12日,Ka LP-M,,2.7 kg,2022-F05,,,
-安哥拉卫星2号,AngoSat 2,,AngoSat 2,Angola,ISS Reshetnev,Communication,,GEO,,Proton-M Blok-DM-03,2022年10月12日,Ba LC-81/24,15 years,1964 kg,2022-131A,,,
-早稻田卫星0号,Waseda-SAT 0,,Waseda-SAT 0,Japan,Waseda University,Technology,,,,Epsilon (2) CLPS,2022年10月12日,Ka LP-M,,1 kg,2022-F05,,,
+中文名称,文件名,别名,英文名称,国籍,研发机构,任务类型,轨道类型,轨道高度,轨道倾角,运载火箭,发射日期,发射基地,设计寿命,质量,国际卫星标识符,NORAD,备注
+宇宙2560号,"EO-MKA (EMKA, Zvesda ?).jpg",,"Kosmos 2560 (EO-MKA #3 ?, MKA-R ?)",俄罗斯,[[空间监控系统、信息和控制及机电综合体]] （初）; [[佩伦海外有限公司]] （相机）,,,328 km × 343 km,96.35°,[[安加拉]]-1.2,2022年10月15日,[[普列谢茨克航天发射场|普]] LC-35/1,,,2022-135A,54050,
+遥感三十四号03星,Yaogan 34.jpg,,Yaogan 34-03,中国,[[八院]],遥感,,1083 km × 1105 km,63.38°,[[长征四号丙]],2022年11月15日,[[酒泉卫星发射中心|酒泉]] LC-43/94,,,2022-154A,54249,中国遥感卫星系列
+“吉林一号”高分03D-08,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-08 (Jilin-1 High Resolution-03D-08),中国,[[长光卫星技术有限公司]],遥感,,,,[[谷神星一号]] (3),2022年11月16日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,42 kg,2022-155,54251,“吉林一号”高分卫星系列
+“吉林一号”高分03D-09,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-09 (Jilin-1 High Resolution-03D-09, Xi'an Hangtou 1)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-35,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-35 (Jilin-1 High Resolution-03D-35, Dongpo 01)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-36,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-36 (Jilin-1 High Resolution-03D-36, Dongpo 02)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-37,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-37 (Jilin-1 High Resolution-03D-37, Dongpo 03)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-38,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-38 (Jilin-1 High Resolution-03D-38, Dongpo 04)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-39,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-39 (Jilin-1 High Resolution-03D-39, Dongpo 05)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-40,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-40 (Jilin-1 High Resolution-03D-40, Dongpo 06)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-41,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-41 (Jilin-1 High Resolution-03D-41, Dongpo 07)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-42,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-42 (Jilin-1 High Resolution-03D-42, Henan 1)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-43,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-43 (Jilin-1 High Resolution-03D-43, Puyin 1)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”高分卫星系列
+“吉林一号”高分03D-44,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-44 (Jilin-1 High Resolution-03D-44, Dongpo 08)",中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-45,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-45 (Jilin-1 High Resolution-03D-45, Dongpo 09)",中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-46,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,"Jilin-1 Gaofen-03D-46 (Jilin-1 High Resolution-03D-46, Dongpo 10)",中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-47,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-47 (Jilin-1 High Resolution-03D-47),中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-48,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-48 (Jilin-1 High Resolution-03D-48),中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-49,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-49 (Jilin-1 High Resolution-03D-49),中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-50,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-50 (Jilin-1 High Resolution-03D-50),中国,[[长光卫星技术有限公司]],遥感,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,42 kg,2022-167,54682,“吉林一号”高分卫星系列
+“吉林一号”高分03D-51,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-51 (Jilin-1 High Resolution-03D-51),中国,[[长光卫星技术有限公司]],遥感,,,,[[谷神星一号]] (3),2022年11月16日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,42 kg,2022-155,54251,“吉林一号”高分卫星系列
+“吉林一号”高分03D-52,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-52 (Jilin-1 High Resolution-03D-52),中国,[[长光卫星技术有限公司]],遥感,,,,[[谷神星一号]] (3),2022年11月16日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,42 kg,2022-155,54251,“吉林一号”高分卫星系列
+“吉林一号”高分03D-53,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-53 (Jilin-1 High Resolution-03D-53),中国,[[长光卫星技术有限公司]],遥感,,,,[[谷神星一号]] (3),2022年11月16日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,42 kg,2022-155,54251,“吉林一号”高分卫星系列
+“吉林一号”高分03D-54,"Jilin-1 Gaofen-03A, -03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D).jpg",,Jilin-1 Gaofen-03D-54 (Jilin-1 High Resolution-03D-54),中国,[[长光卫星技术有限公司]],遥感,,,,[[谷神星一号]] (3),2022年11月16日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,42 kg,2022-155,54251,“吉林一号”高分卫星系列
+莲花-S-6,Lotos-S1 (14F145).jpg,,"Kosmos 2565 (Lotos-S1 #6, №807)",俄罗斯,"[[进步火箭航天中心]] （平台）, [[兵器设计局]] （载荷）",军事,,901 km × 910 km,67.15°,[[联盟2]]-1b,2022年11月30日,[[普列谢茨克航天发射场|普]] LC-43/4,,,2022-163A,54381,莲花卫星系列
+进步号MS-21,Progress-MS 01 - 22.jpg,,Progress-MS 21 (№451 ?),俄罗斯,,在轨服务（货运）,,400 km × 400 km （典型）,51.6°,[[联盟2]]-1a,2022年10月16日,[[拜科努尔航天发射场|拜]] LC-31/6,,7280 kg,2022-140A,54155,进步号系列
+天舟五号,"Tianzhou 1, 2, 3, 4, 5 (TZ 1, 2, 3, 4, 5).jpg",,Tianzhou 5 (TZ 5),中国,,在轨服务（货运）,,400 km × 400 km,42.8°,[[长征七号]],2022年11月12日,[[文昌航天发射场|文昌]] LC-201,,12910 kg (#1),2022-152A,54237,天舟货运飞船系列
+天鹅座货运飞船18号,Cygnus-PCM (enhanced).jpg,,"Cygnus CRS-18 (NG 18, SS Sally Ride)",美国,[[轨道科学公司]] (OSC),在轨服务（货运）,,400 km × 400 km （典型）,51.6°,[[安塔瑞斯]]-230+,2022年11月7日,[[沃洛普斯飞行设施|沃]]-0A,66天,7492 kg (#4),2022-149A,54232,天鹅座货运飞船系列
+试验二十号A星,"SY 20A, 20B, 20C.jpg",,SY 20A,中国,[[中国科学院]],技术试验,,,,[[长征四号丙]],2022年12月12日,[[酒泉卫星发射中心|酒泉]] LP-43/95,,,2022-169,54699,试验卫星系列
+试验二十号B星,"SY 20A, 20B, 20C.jpg",,SY 20B,中国,[[中国科学院]],技术试验,,,,[[长征四号丙]],2022年12月12日,[[酒泉卫星发射中心|酒泉]] LP-43/95,,,2022-169,54699,试验卫星系列
+试验二十号C星,"SY 20A, 20B, 20C.jpg",,SY 20C,中国,[[中国科学院]],技术试验,,,,[[长征二号丁]] (2),2022年10月29日,[[酒泉卫星发射中心|酒泉]] LP-43/95,,,2022-142A,54214,试验卫星系列
+美国334号,"USA 334, 335 (NROL 162, 199).jpg",,USA 334 (NROL 162),"美国, 澳大利亚",?,?,,,,[[电子号]] KS,2022年07月13日,[[火箭实验室发射综合体1号|火]] LC-1A,,,2022-079A,53102,“美国”卫星系列
+美国335号,"USA 334, 335 (NROL 162, 199).jpg",,USA 335 (NROL 199),"美国, 澳大利亚",?,?,,,,[[电子号]] KS,2022年08月4日,[[火箭实验室发射综合体1号|火]] LC-1B,,,2022-091A,53352,“美国”卫星系列
+遥感三十五号03组A星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-03A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年07月29日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-088A,53316,中国遥感卫星系列
+遥感三十五号03组B星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-03B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年07月29日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-088C,53318,中国遥感卫星系列
+遥感三十五号04组A星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-04A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年08月19日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-100A,53522,中国遥感卫星系列
+遥感三十五号04组B星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-04B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年08月19日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-100C,53524,中国遥感卫星系列
+遥感三十五号05组A星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-05A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年09月6日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-109A,53760,中国遥感卫星系列
+遥感三十五号05组B星,"Yaogan 35-01A/B, 35-02A/B, 35-03A/B, 35-04A/B, 35-05A/B.jpg",,Yaogan 35-05B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年09月6日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-109B,53761,中国遥感卫星系列
+四维高景二号01星,"Siwei Gaojing 2-01, 02, 03, 04 (SuperView Neo 1-01, 02, 03, 04).jpg",,Siwei Gaojing 2-01 (SuperView Neo 2-01),中国,[[五院]],遥感,,,,[[长征二号丙]] (3),2022年07月15日,[[太原卫星发射中心|太原]] LC-9,,540 kg,2022-082A,53128,中国遥感卫星系列
+四维高景二号02星,"Siwei Gaojing 2-01, 02, 03, 04 (SuperView Neo 1-01, 02, 03, 04).jpg",,Siwei Gaojing 2-02 (SuperView Neo 2-02),中国,[[五院]],遥感,,,,[[长征二号丙]] (3),2022年07月15日,[[太原卫星发射中心|太原]] LC-9,,540 kg,2022-082C,53130,中国遥感卫星系列
+遥感三十六号01组A星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-01A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年09月26日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-120A,53943,中国遥感卫星系列
+遥感三十六号01组B星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-01B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年09月26日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-120D,53946,中国遥感卫星系列
+遥感三十六号02组A星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-02A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年10月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-133A,54042,中国遥感卫星系列
+遥感三十六号02组B星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-02B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年10月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-133B,54043,中国遥感卫星系列
+遥感三十六号03组A星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-03A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年11月27日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-160,54372,中国遥感卫星系列
+遥感三十六号03组B星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-03B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年11月27日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-160,54372,中国遥感卫星系列
+遥感三十六号04组A星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-04A,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年12月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-171,54746,中国遥感卫星系列
+遥感三十六号04组B星,"Yaogan 36-01A/B, 36-02A/B, 36-03A/B, 36-04A/B.jpg",,Yaogan 36-04B,中国,[[中国东方红卫星股份有限公司|北京东方红]],遥感,,,,[[长征二号丁]] (2),2022年12月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-171,54746,中国遥感卫星系列
+遥感三十五号03组C星,"Yaogan 35-01C, 35-03C, 35-03C, 35-04C, 35-05C.jpg",,Yaogan 35-03C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年07月29日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-088E,53320,中国遥感卫星系列
+遥感三十五号04组C星,"Yaogan 35-01C, 35-03C, 35-03C, 35-04C, 35-05C.jpg",,Yaogan 35-04C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年08月19日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-100E,53526,中国遥感卫星系列
+遥感三十五号05组C星,"Yaogan 35-01C, 35-03C, 35-03C, 35-04C, 35-05C.jpg",,Yaogan 35-05C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年09月6日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-109D,53763,中国遥感卫星系列
+试验十六号A星,"SY 16A, 16B.jpg",,SY 16A,中国,[[八院]],技术试验,,,,[[长征六号]],2022年09月26日,[[太原卫星发射中心|太原]] LC-16,,,2022-121,53948,试验卫星系列
+试验十六号B星,"SY 16A, 16B.jpg",,SY 16B,中国,[[八院]],技术试验,,,,[[长征六号]],2022年09月26日,[[太原卫星发射中心|太原]] LC-16,,,2022-121,53948,试验卫星系列
+创新十六号A星,"CX 16A, 16B.jpg",,CX 16A,中国,[[中国科学院]],技术试验 ?,,,,[[快舟一号甲]],2022年08月23日,[[西昌卫星发射中心|西昌]],,,2022-102A,53586,
+创新十六号B星,"CX 16A, 16B.jpg",,CX 16B,中国,[[中国科学院]],技术试验 ?,,,,[[快舟一号甲]],2022年08月23日,[[西昌卫星发射中心|西昌]],,,2022-102B,53876,
+斯科尔科技B1,"Skoltech B1, B2.jpg",,Skoltech B1,俄罗斯,[[斯科尔科沃科技大学]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096,53370,
+斯科尔科技B2,"Skoltech B1, B2.jpg",,Skoltech B2,俄罗斯,[[斯科尔科沃科技大学]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096,53370,
+遥感三十六号01组C星,"Yaogan 36-01C, 36-02C, 36-03C, 36-04C.jpg",,Yaogan 36-01C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年09月26日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-120E,53947,中国遥感卫星系列
+遥感三十六号02组C星,"Yaogan 36-01C, 36-02C, 36-03C, 36-04C.jpg",,Yaogan 36-02C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年10月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-133D,54045,中国遥感卫星系列
+遥感三十六号03组C星,"Yaogan 36-01C, 36-02C, 36-03C, 36-04C.jpg",,Yaogan 36-03C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年11月27日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-160,54372,中国遥感卫星系列
+遥感三十六号04组C星,"Yaogan 36-01C, 36-02C, 36-03C, 36-04C.jpg",,Yaogan 36-04C,中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年12月14日,[[西昌卫星发射中心|西昌]] LC-3,,,2022-171,54746,中国遥感卫星系列
+马格纳罗A,"MAGNARO A, B.jpg",,MAGNARO A,日本,[[名古屋大学]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,,2022-F05,,
+马格纳罗B,"MAGNARO A, B.jpg",,MAGNARO B,日本,[[名古屋大学]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,,2022-F05,,
+非洲珍珠卫星1号,"Bird B, BTN, G, J, JPN, LKA, M, MYS, N, NPL, PHL(BRAC Onnesha, Bhutan 1, GhanaSat 1, Toki, Uguisu, Raavana 1, Mazaalai, UiTMSAT 1, EduSat 1, NepaliSat 1, Maya 1).jpg",,PearlAfricaSat 1,"日本, 孟加拉国, 加纳, 蒙古国, 尼日利亚, 菲律宾, 不丹, 马来西亚, 尼泊尔, 斯里兰卡, 巴拉圭, 乌干达, 津巴布韦",[[九州工业大学]] (Kyutech),技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[安塔瑞斯]]-230+,2022年11月7日,[[沃洛普斯飞行设施|沃]]-0A,~ 6个月,1 kg,,,鸟卫星系列
+津巴布韦卫星1号,"Bird B, BTN, G, J, JPN, LKA, M, MYS, N, NPL, PHL(BRAC Onnesha, Bhutan 1, GhanaSat 1, Toki, Uguisu, Raavana 1, Mazaalai, UiTMSAT 1, EduSat 1, NepaliSat 1, Maya 1).jpg",,ZimSat 1,"日本, 孟加拉国, 加纳, 蒙古国, 尼日利亚, 菲律宾, 不丹, 马来西亚, 尼泊尔, 斯里兰卡, 巴拉圭, 乌干达, 津巴布韦",[[九州工业大学]] (Kyutech),技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[安塔瑞斯]]-230+,2022年11月7日,[[沃洛普斯飞行设施|沃]]-0A,~ 6个月,1 kg,,,鸟卫星系列
+银河33,"Galaxy 33, 34.jpg",,Galaxy 33 (Galaxy 15R),美国,[[诺思罗普·格鲁曼]]创新系统 (NGIS) (前身是 [[轨道ATK公司]]),通信,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5),2022年10月8日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,15年,3654 kg (#33); 3695 kg (#34),2022-128A,54026,银河卫星系列
+银河34,"Galaxy 33, 34.jpg",,Galaxy 34 (Galaxy 12R),美国,[[诺思罗普·格鲁曼]]创新系统 (NGIS) (前身是 [[轨道ATK公司]]),通信,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5),2022年10月8日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,15年,3654 kg (#33); 3695 kg (#34),2022-128B,54027,银河卫星系列
+泰景一号01星,"Taijing-1 01, 02.jpg",,Taijing-1 01 (Ping'An 3),中国,[[微纳星空]],遥感,,,,[[谷神星一号]] (3),2022年08月9日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,,2022-095,53367,泰景卫星系列
+泰景一号02星,"Taijing-1 01, 02.jpg",,Taijing-1 02,中国,[[微纳星空]],遥感,,,,[[谷神星一号]] (3),2022年08月9日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,,2022-095,53367,泰景卫星系列
+起源G号,"GENESIS L, -N.jpg",,GENESIS G (Astroland 1),西班牙,[[西班牙业余卫星组织]],技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,0.2 kg,2022-122B ?,,起源卫星系列
+起源N号,"GENESIS L, -N.jpg",,GENESIS J (Astroland 2),西班牙,[[西班牙业余卫星组织]],技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,0.2 kg,2022-122D ?,,起源卫星系列
+丘比克3号,"Qubik 1, 2, 3, 4, 5, 6.jpg",,Qubik 3,希腊,[[利布勒空间基金会]],技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,0.2 kg,2022-122#,53955,丘比克卫星系列
+丘比克4号,"Qubik 1, 2, 3, 4, 5, 6.jpg",,Qubik 4,希腊,[[利布勒空间基金会]],技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,0.2 kg,2022-122#,53955,丘比克卫星系列
+天文投射0301,"Astrocast 0101, ..., TBD.jpg",,Astrocast 0301,瑞士,,通信（M2M/IoT）,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,5 kg,2022-158K,54370,天文投射系列
+天文投射0302,"Astrocast 0101, ..., TBD.jpg",,Astrocast 0302,瑞士,,通信（M2M/IoT）,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,5 kg,2022-158J,54369,天文投射系列
+天文投射0303,"Astrocast 0101, ..., TBD.jpg",,Astrocast 0303,瑞士,,通信（M2M/IoT）,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,5 kg,2022-158H,54368,天文投射系列
+天文投射0304,"Astrocast 0101, ..., TBD.jpg",,Astrocast 0304,瑞士,,通信（M2M/IoT）,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,5 kg,2022-158G,54367,天文投射系列
+电磁组装试验1号,"DZS 1, 2.jpg",,DZS 1,中国,[[中国科学院]],技术试验,,,,[[力箭一号]] ,2022年07月27日,[[酒泉卫星发射中心|酒泉]] LP-43/130,,95 kg (#1 and #2 combined),2022-087,53299,
+电磁组装试验2号,"DZS 1, 2.jpg",,DZS 2,中国,[[中国科学院]],技术试验,,,,[[力箭一号]] ,2022年07月27日,[[酒泉卫星发射中心|酒泉]] LP-43/130,,95 kg (#1 and #2 combined),2022-087,53299,
+洛马太空升级卫星系统1号,"LINUSS 1, 2 (LINUS-A 1, 2).jpg",,LINUSS 1 (LINUS-A 1),美国,[[洛克希德·马丁]] ,技术试验,[[GEO]],,,[[重型猎鹰]] (Block 5)(px),2022年11月1日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-144,54219,
+洛马太空升级卫星系统2号,"LINUSS 1, 2 (LINUS-A 1, 2).jpg",,LINUSS 2 (LINUS-A 2),美国,[[洛克希德·马丁]] ,技术试验,[[GEO]],,,[[重型猎鹰]] (Block 5)(px),2022年11月1日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-144,54219,
+蒂博特1号,"Thybolt 1, 2.jpg",,Thybolt 1,印度,[[杜茹瓦空间]],"技术试验, 通信",,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,1年,0.5 kg,2022-158C,54363,
+蒂博特2号,"Thybolt 1, 2.jpg",,Thybolt 2,印度,[[杜茹瓦空间]],"技术试验, 通信",,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,1年,0.5 kg,2022-158D,54364,
+昴宿星Neo 5,"Pléiades-Neo 3, 4, 5, 6 (VHR-2020 1, 2, 3, 4).jpg",,Pléiades-Neo 5 (VHR-2020 3),法国,[[空客防务与航天公司]],遥感,,623 km × 626 km,97.90°,[[织女星]]-C,2022年12月21日,[[圭亚那航天中心|圭]] ELV,10年,920 kg,2022-F07,,昂宿星卫星系列
+昴宿星Neo 6,"Pléiades-Neo 3, 4, 5, 6 (VHR-2020 1, 2, 3, 4).jpg",,Pléiades-Neo 6 (VHR-2020 4),法国,[[空客防务与航天公司]],遥感,,615 km × 617 km,97.90°,[[织女星]]-C,2022年12月21日,[[圭亚那航天中心|圭]] ELV,10年,920 kg,2022-F07,,昂宿星卫星系列
+欧洲卫星公司20号,"SES 20, 21.jpg",,SES 20,美国,[[波音公司]]卫星部,通信,[[GEO]],,,[[宇宙神5]](531),2022年10月4日,[[卡纳维拉尔角太空军基地|卡]] SLC-41,15年,~1500 (#20); ~1700 (#21),2022-123A,53960,欧洲卫星公司卫星系列
+欧洲卫星公司21号,"SES 20, 21.jpg",,SES 21,美国,[[波音公司]]卫星部,通信,[[GEO]],,,[[宇宙神5]](531),2022年10月4日,[[卡纳维拉尔角太空军基地|卡]] SLC-41,15年,~1500 (#20); ~1700 (#21),2022-123B,53961,欧洲卫星公司卫星系列
+“吉林一号”红外A01,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A01 (Jilin-1 Infrared-A01, Yunyao-1 04)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+“吉林一号”红外A02,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A02 (Jilin-1 Infrared-A02, Yunyao-1 05)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+“吉林一号”红外A03,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A03 (Jilin-1 Infrared-A03, Yunyao-1 06)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+“吉林一号”红外A04,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A04 (Jilin-1 Infrared-A04, Yunyao-1 07)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+“吉林一号”红外A05,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A05 (Jilin-1 Infrared-A05, Yunyao-1 08)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+“吉林一号”红外A06,"Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06).jpg",,"Jilin-1 Hongwai-A06 (Jilin-1 Infrared-A06, Tianjin Binhai 1)",中国,[[长光卫星技术有限公司]],遥感,,,,[[长征六号]],2022年08月10日,[[太原卫星发射中心|太原]] LC-16,,42 kg,2022-098,53444,“吉林一号”红外卫星系列
+热鸟系列13F,"Hotbird 13F, 13G.jpg",,Hotbird 13F,国际,[[空客防务与航天公司]],通信（直播）,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5),2022年10月15日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,15年,4500 kg,2022-134A,54048,热鸟系列
+热鸟系列13G,"Hotbird 13F, 13G.jpg",,Hotbird 13G,国际,[[空客防务与航天公司]],通信（直播）,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5),2022年11月3日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,15年,4500 kg,2022-146A,54225,热鸟系列
+货运龙-25,"Dragon CRS-21,... CRS-29 (SpX 21,... 29).jpg",,"Dragon CRS-25 (SpX 25, Dragon C208-F3)",美国,[[太空探索技术公司]],在轨服务（货运）,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-081A,53113,货运龙系列
+货运龙-26,"Dragon CRS-21,... CRS-29 (SpX 21,... 29).jpg",,"Dragon CRS-26 (SpX 26, Dragon C211-F1)",美国,[[太空探索技术公司]],在轨服务（货运）,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-159A,54371,货运龙系列
+QPS合成孔径雷达3号,"QPS-SAR 3, 4, 5.jpg",,QPS-SAR 3,日本,[[株式会社QPS研究所]],遥感（雷达）,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,~100 kg,2022-F05,,QPS合成孔径雷达系列
+QPS合成孔径雷达4号,"QPS-SAR 3, 4, 5.jpg",,QPS-SAR 4,日本,[[株式会社QPS研究所]],遥感（雷达）,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,~100 kg,2022-F05,,QPS合成孔径雷达系列
+和德二号G星,"HEAD 1, 2A, 2B, 2C, 2D, 2E, 2F, 3, 4, 5 (Hede 1, 2A, 2B, 2C, 2D, 2E, 2F, 3, 4, 5).jpg",,"HEAD 2G (Hede 2G, Jiaotong 4)",中国,[[八院]],通信（M2M/IoT）,,,,[[长征四号乙]],2022年08月4日,[[太原卫星发射中心|太原]] LC-9,2-3年,45 kg,2022-090,53346,和德卫星系列
+和德二号H星,"HEAD 1, 2A, 2B, 2C, 2D, 2E, 2F, 3, 4, 5 (Hede 1, 2A, 2B, 2C, 2D, 2E, 2F, 3, 4, 5).jpg",,"HEAD 2H (Hede 2H, Jiaotong 5)",中国,[[八院]],通信（M2M/IoT）,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,2-3年,45 kg,2022-167,54682,和德卫星系列
+银河31,"Galaxy 31, 32, 35, 36.jpg",,Galaxy 31 (Galaxy 23R),美国,[[马克萨科技公司]],通信,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5)(ex),2022年11月12日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,,,2022-153A,54243,银河卫星系列
+银河32,"Galaxy 31, 32, 35, 36.jpg",,Galaxy 32 (Galaxy 17R),美国,[[马克萨科技公司]],通信,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5)(ex),2022年11月12日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,,,2022-153B,54244,银河卫星系列
+银河35,"Galaxy 31, 32, 35, 36.jpg",,Galaxy 35 (Galaxy 3CR),美国,[[马克萨科技公司]],通信,[[GEO]],,,[[阿丽亚娜5]]ECA+,2022年12月13日,[[圭亚那航天中心|圭]] ELA-3,,,2022-170A,54741,银河卫星系列
+银河36,"Galaxy 31, 32, 35, 36.jpg",,Galaxy 36 (Galaxy 28R),美国,[[马克萨科技公司]],通信,[[GEO]],,,[[阿丽亚娜5]]ECA+,2022年12月13日,[[圭亚那航天中心|圭]] ELA-3,,,2022-170B,54742,银河卫星系列
+微厘空间一号S3试验卫星,CentiSpace-1 S1 (Xiangrikui 1).jpg,,"CentiSpace-1 S3 (Weili Kongjian-1 S3, Xiangrikui 3)",中国,[[中国科学院]],技术试验 ?,,695 km × 708 km,98.22°,[[快舟一号甲]],2022年09月6日,[[酒泉卫星发射中心|酒泉]] LP-43/95B,,97 kg,2022-108A,53757,“微厘空间”卫星星座系列
+微厘空间一号S4试验卫星,CentiSpace-1 S1 (Xiangrikui 1).jpg,,"CentiSpace-1 S4 (Weili Kongjian-1 S4, Xiangrikui 4)",中国,[[中国科学院]],技术试验 ?,,695 km × 708 km,98.22°,[[快舟一号甲]],2022年09月6日,[[酒泉卫星发射中心|酒泉]] LP-43/95B,,97 kg,2022-108B,53758,“微厘空间”卫星星座系列
+微厘空间北斗低轨导航增强系统S5试验卫星,CentiSpace-1 S1 (Xiangrikui 1).jpg,,"CentiSpace-1 S5 (Weili Kongjian-1 S5, Xiangrikui 5)",中国,[[中国科学院]],技术试验 ?,,695 km × 708 km,98.22°,[[长征十一号]]H,2022年10月7日,[[东方航天港]]（母港）,,97 kg,2022-126A,54020,“微厘空间”卫星星座系列
+微厘空间北斗低轨导航增强系统S6试验卫星,CentiSpace-1 S1 (Xiangrikui 1).jpg,,"CentiSpace-1 S6 (Weili Kongjian-1 S6, Xiangrikui 6)",中国,[[中国科学院]],技术试验 ?,,695 km × 708 km,98.22°,[[长征十一号]]H,2022年10月7日,[[东方航天港]]（母港）,,97 kg,2022-126B,54021,“微厘空间”卫星星座系列
+圣彼得堡理工宇宙1号,"Polytech-Universe 1, 2.jpg",,Polytech-Universe 1,俄罗斯,,技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096,53370,
+圣彼得堡理工宇宙2号,"Polytech-Universe 1, 2.jpg",,Polytech-Universe 2,俄罗斯,,技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096,53370,
+O3b FM21,"O3b mPower 1, ..., 11 (O3b 21, ..., 31).jpg",,O3b mPower 1 (O3b FM21 ?),英国 (海峡群岛),[[波音公司]],通信,,7825 km,,[[猎鹰9号]] v1.2 (Block 5),2022年12月16日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,10年,1700 kg,2022-174A,54755,O3b FM系列
+O3b FM22,"O3b mPower 1, ..., 11 (O3b 21, ..., 31).jpg",,O3b mPower 2 (O3b FM22 ?),英国 (海峡群岛),[[波音公司]],通信,,7825 km,,[[猎鹰9号]] v1.2 (Block 5),2022年12月16日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,10年,1700 kg,2022-174B,54756,O3b FM系列
+欧洲通信卫星连接者VHTS,Eutelsat Konnect VHTS.jpg,,Eutelsat Konnect VHTS,国际,[[阿莱尼亚宇航公司]],通信,[[GEO]],,,[[阿丽亚娜5]]ECA+,2022年09月7日,[[圭亚那航天中心|圭]] ELA-3,15年,6396 kg,2022-110A,53765,欧洲通信卫星系列
+夏尔巴LTC星2号,"Sherpa-LTC 1, 2.jpg",,Sherpa-LTC 2 (Varuna-TDM),美国,[[太空航行服务公司]],在轨服务,[[SSO]],500 km ; 1056 km,54°,[[猎鹰9号]] v1.2 (Block 5),2022年09月5日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,2年 (#2),180 kg; 140 kg dry (#2),2022-107BE,53752,夏尔巴卫星系列
+遥感三十三号02星,"Yaogan 29, 33, 33R.jpg",,"Yaogan 33-02 (YG 33-02, JB-x 4)",中国,[[八院]],遥感（雷达）,,682 km × 686 km,98.3°,[[长征四号丙]],2022年09月2日,[[酒泉卫星发射中心|酒泉]] LC-43/94,,,2022-106A,53698,中国遥感卫星系列
+试验十七号卫星,SY 17.jpg,,SY 17,中国,[[中国东方红卫星股份有限公司]],技术试验,,,,[[长征六号]],2022年09月26日,[[太原卫星发射中心|太原]] LC-16,,,2022-121,53948,试验卫星系列
+试验十四号卫星,SY 14.jpg,,SY 14,中国,,技术试验,,,,[[快舟一号甲]],2022年09月24日,[[太原卫星发射中心|太原]],,,2022-118,53884,试验卫星系列
+锁眼11-19,KH-11 / Kennen / Crystal.jpg,,"KH-11 19 (Crystal 19, USA 338, NROL 91)",美国,[[洛克希德·马丁]] → [[洛克希德·马丁]],遥感（光电）,,,,[[德尔塔4]]H (upg.),2022年09月24日,[[范登堡空军基地|范]] SLC-6,,13500 kg - 17000 kg,2022-117A,53883,锁眼系列
+试验十五号卫星,SY 15.jpg,,SY 15,中国,,技术试验,,,,[[快舟一号甲]],2022年09月24日,[[太原卫星发射中心|太原]],,,2022-118,53884,试验卫星系列
+云海一号03星,"Yunhai-1 01, 02, 03.jpg",,Yunhai-1 03,中国,[[八院]],气象,,760 km × 787 km ,98.5°,[[长征二号丁]] (2),2022年09月21日,[[酒泉卫星发射中心|酒泉]] LC-43/94,,,2022-115A,53877,云海卫星系列
+条纹X-1,"StriX 1, ..., 25.jpg",,StriX 1,日本,[[数据合成观]],遥感（雷达）,,,,[[电子号]] KS,2022年09月15日,[[火箭实验室发射综合体1号|火]] LC-1B,,100 kg,2022-113A,53815,条纹X系列
+中星1E,"FH 2A, 2B, 2C (ZX 1A, 1B, 1C).jpg",,"FH 2E (ZX 1E, ChinaSat 1E)",中国,[[五院]],通信,[[GEO]],,,[[长征七号甲]],2022年09月13日,[[文昌航天发射场|文昌]] LC-201,11年,5320 kg,2022-112A,53813,中星卫星系列
+蓝行者3号,BlueWalker 3 (BW 3).jpg,,BlueWalker 3 (BW 3),美国,[[纳米航空电子设备公司]],通信,,,,[[猎鹰9号]] v1.2 (Block 5),2022年09月11日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,~1500 kg,2022-111AL,53807,蓝行者系列
+东海一号,Donghai 1.jpg,,Donghai 1,中国,,,,,,[[谷神星一号]] (3),2022年08月9日,[[酒泉卫星发射中心|酒泉]] LC-43/95A,,,2022-095,53367,
+塞壬号,Siren (LILAC).jpg,,"Siren (LILAC, RS 30S)",俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096Q,53384,
+ISOI卫星,ISOI.jpg,,ISOI (RS 19S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096M,53381,
+海亚姆1号,"Khayyam 1, 2, 3, 4.jpg",,Khayyam 1,伊朗,[[全俄机电研究所]] ?,遥感,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096A,53370,
+库兹巴斯300号,Kuzbass-300.jpg,,Kuzbass-300 (RS 34S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096F,53375,
+巫师SS1,VIZARD SS1 (RS 33S).jpg,,VIZARD SS1 (RS 33S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096S,53386,
+高等经济大学立方星2号,CubeSX-HSE / CubeSX-Sirius-HSE.jpg,,CubeSX-HSE 2 (RS 21S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096P,53383,
+凯-1,KAI 1.jpg,,KAI 1 (RS 26S),俄罗斯,,技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096J,53378,
+独眼巨人号,CYCLOPS.jpg,,CYCLOPS (RS 29S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096D,53373,
+莫电子AIS,MIET-AIS.jpg,,MIET-AIS (RS 28S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096H,53377,
+监视器1号,"Monitor 1 (KODIZ, RS 32S).jpg",,"Monitor 1 (KODIZ, RS 32S)",俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096E,53374,
+环球扫描-埃德尔维斯,Geoskan-Edelveis (RS 20S).jpg,,Geoskan-Edelveis (RS 20S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096R,53385,
+秋明大学号,UTMN.jpg,,UTMN (RS 23S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096G,53376,
+列舍特涅夫大学立方星,ReshUCube.jpg,,ReshUCube (RS 8S),俄罗斯,[[斯普特尼克斯]],技术试验,,,,[[联盟2]]-1b Fregat,2022年08月9日,[[拜科努尔航天发射场|拜]] LC-31/6,,,2022-096N,53382,
+阿扎迪卫星,AzaadiSAT.jpg,,AzaadiSAT,印度,[[太空儿童-印度]],科学与教育,,,,[[印度小型卫星发射器]],2022年08月7日,[[萨迪什·达万航天中心|萨]] FLP,,8 kg,2022-F04,,
+天基红外系统GEO-6,"SBIRS-GEO 5, 6.jpg",,SBIRS-GEO 6 (USA 336),美国,[[洛克希德·马丁]],军事（预警）,[[GEO]],,,[[宇宙神5]](421)²,2022年08月4日,[[卡纳维拉尔角太空军基地|卡]] SLC-41,12年,~ 4500 kg,2022-092A,53355,天基红外系统GEO系列
+闵行少年星,Minhang Shaonian.jpg,,Minhang Shaonian,中国,,,[[SSO]],517 km ,,[[长征四号乙]],2022年08月4日,[[太原卫星发射中心|太原]] LC-9,4年,~500 kg,2022-090,53346,
+句芒号,TECIS (Guomang).jpg,,TECIS (Guomang),中国,,科学与教育（地球科学）,[[SSO]],517 km ,,[[长征四号乙]],2022年08月4日,[[太原卫星发射中心|太原]] LC-9,4年,~500 kg,2022-090,,
+北京三号B星,Beijing 3B.jpg,,Beijing 3B (Nanning 1),中国,[[五院]],遥感,,,,[[长征二号丁]] (2),2022年08月24日,[[太原卫星发射中心|太原]] LC-9,8年,,2022-103A,53587,
+小型全辐射照度监视器,CTIM-FD.jpg,,CTIM-FD,美国,[[科罗拉多大学博尔德分校]],科学与教育（地球科学）,,,,[[发射者1号]],2022年07月2日,[[莫哈维航空航天港|莫]]RW12/30,1年,x kg,2022-074G,52950,
+低轨道量子密钥分发试验卫星,Jinan 1 (Diguidao Lianzi Miyao Fenfao).jpg,,Jinan 1 (Diguidao Lianzi Miyao Fenfao),中国,,技术试验,,,,[[力箭一号]] ,2022年07月27日,[[酒泉卫星发射中心|酒泉]] LP-43/130,,94 kg,2022-087,53299,
+空间新技术试验卫星,SATech 01 (Kongjian Xinjishu Shiyan 01).jpg,,SATech 01 (Kongjian Xinjishu Shiyan 01),中国,,技术试验,,,,[[力箭一号]] ,2022年07月27日,[[酒泉卫星发射中心|酒泉]] LP-43/130,,622 kg,2022-087,53299,
+轨道大气密度探测试验卫星（2022）,GDMTSW.jpg,,GDMTSW,中国,,技术试验,,,,[[力箭一号]] ,2022年07月27日,[[酒泉卫星发射中心|酒泉]] LP-43/130,,42 kg,2022-087,53299,
+美国337号,USA 337.jpg,,USA 337,美国,[[美国空军研究实验室]] ?,技术试验,,38992 km × 38992 km,0.0°,[[宇宙神5]](541)²,2022年07月1日,[[卡纳维拉尔角太空军基地|卡]] SLC-41,,,2022-073E,53521,“美国”卫星系列
+地球表面矿物尘源调查,EMIT.jpg,,EMIT,美国,[[NASA]],遥感,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,TBD,,
+海狸立方星,BeaverCube.jpg,,BeaverCube,美国,[[麻省理工学院]] (MIT),技术试验，科学与教育,,411 km × 415 km,51.64°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,1998-067UF,53768,
+幸福科学大学卫星1号,HSU-SAT 1.jpg,,HSU-SAT 1,日本,[[快乐科学大学]],技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,~ 6个月,1 kg,1998-067UB,53462,
+拖动离轨装置,D3.jpg,,D3,美国,[[佛罗里达大学]],技术试验,,,,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,2 kg,1998-067UE,53767,
+摩尔多瓦技术大学微纳卫星,TUMnanoSAT.jpg,,TUMnanoSAT,摩尔多瓦,[[摩尔多瓦技术大学]],技术试验,,400 km × 400 km （典型）,51.64°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,1 kg,1998-067UD,53464,
+激光红外交联立方星A星,"CLICK A, B, C.jpg",,CLICK A,美国,[[麻省理工学院]]; [[蓝峡谷技术公司]] (BCT) （平台）,技术试验,,410 km × 415 km,51.64°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,1998-067UG,53769,
+帽子卫星1号,CapSat 1.jpg,,CapSat 1,美国,[[维斯学校]],技术试验,,,,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,1 kg,1998-067UH,53770,
+双叶号,FUTABA.jpg,,FUTABA,日本,[[九州工业大学]] (Kyutech),技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,~ 6个月,1 kg,1998-067UC,53463,
+等离子体电子密度测量卫星1号,JAGSAT 1.jpg,,JAGSAT 1,美国,[[南阿拉巴马大学]],技术试验,,412 km × 414 km,51.64°,[[猎鹰9号]] v1.2 (Block 5),2022年07月15日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,x kg,1998-067UJ,53771,
+“三”卫星-R,TRISAT R.jpg,,TRISAT R,斯洛文尼亚,[[马里博尔大学]],技术试验，科学与教育,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,6年,5 kg,2022-080D,53108,
+钢片琴,CELESTA (ROBUSTA 1D).jpg,,CELESTA (ROBUSTA 1D),法国,"[[欧洲核子研究组织]], [[蒙彼利埃第二大学]]",技术试验,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,2年,1 kg,2022-080G,53111,
+太空生物立方星,Astrobio Cubesat (ABCS).jpg,,Astrobio Cubesat (ABCS),意大利,[[罗马大学]],科学与教育（生命科学）,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,,,2022-080C,53107,
+记忆测试卫星2号,"MTCube 1, 2 (ROBUSTA 1C, 1F).jpg",,MTCube 2 (ROBUSTA 1F),法国,[[蒙彼利埃第二大学]],技术试验,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,2年,1 kg,2022-080B,53106,
+阿尔法（意大利卫星）,ALPHA.jpg,,ALPHA,意大利,"[[先进航天研咨动力]] （初）, [[空间头脑]]",技术试验,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,,1 kg,2022-080F,53110,
+绿色植物立方卫星,GreenCube.jpg,,GreenCube,意大利,[[二世大学]],科学与教育（生命科学）,,,,[[织女星]]-C,2022年07月13日,[[圭亚那航天中心|圭]] ELV,,,2022-080E,53109,
+天链二号03星,"Tianlian-2 01, 02, 03 (TL 2A, 2B, 2C).jpg",,Tianlian-2 03 (TL 2C),中国,[[五院]],通信,[[GEO]],,,[[长征三号乙]]/G3,2022年07月12日,[[西昌卫星发射中心|西昌]] LC-2,,,2022-078A,53100,天链二号系列
+中国业余无线电卫星5B,CAS 5B.jpg,,CAS 5B,中国,[[中国业余卫星组织]],科学与教育（业余无线电）,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,,2022-167,54682,中国业余无线电卫星系列
+丰台少年二号,CAS 5A (Fengtai Shaonian 2).jpg,,CAS 5A (Fengtai Shaonian 2),中国,[[中国业余卫星组织]],科学与教育（业余无线电）,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,,2022-167C,54684,中国业余无线电卫星系列
+天启星座07星,"Tianqi 7, 8, 9, 14, 15.jpg",,"Tianqi 7 (TQ 7, Dasong Guanyao)",中国,[[北京国电高科科技有限公司]],通信（M2M/IoT）,,,,[[捷龙三号]],2022年12月9日,[[东方航天港]]（母港）,,~50 kg,2022-167,54682,天启卫星系列
+高分五号01A星,Gaofen 5-01A (GF 5-01A).jpg,,Gaofen 5-01A (GF 5-01A),中国,[[八院]],遥感,,,,[[长征二号丁]] (2),2022年12月8日,[[太原卫星发射中心|太原]] LC-9,8年,,2022-079A,53102,中国高分辨率对地观测系统重大专项系列
+行云交通VDES试验卫星,Xingyun Jiaotong VDES Shiyan.jpg,,Xingyun Jiaotong VDES Shiyan (Hangtian Jinzu 1),中国,[[航天科工]],通信,,,,[[快舟十一号]],2022年12月7日,[[酒泉卫星发射中心|酒泉]] LP-43/95B,,,2022-164A,54588,
+地球远程观测系统C3-1,"EROS C3-1, C3-2.jpg",,EROS C3-1,以色列,[[以色列航空工业公司]],遥感,,485 km × 503 km ,139.36°,[[猎鹰9号]] v1.2 (Block 5),2022年12月30日,[[范登堡空军基地|范]] SLC-4E,10年,~400 kg,2022-178A,54878,
+高分十一号04星,"Gaofen 11-01, ..., 11-04 (GF 11, ..., 11-04).jpg",,Gaofen 11-04 (GF 11-04),中国,,遥感,,248 km × 694 km,97.4°,[[长征四号乙]],2022年12月27日,[[太原卫星发射中心|太原]] LC-9,,,2021-176A,,中国高分辨率对地观测系统重大专项系列
+试验二十一号卫星,SY 21.jpg,,SY 21,中国,[[八院]],?,,,,[[长征十一号]],2022年12月16日,[[西昌卫星发射中心|西昌]] LC-4,,,2022-172A,54752,试验卫星系列
+地表水和海洋地形卫星,SWOT.jpg,,SWOT,"美国, 法国",[[阿莱尼亚宇航公司]],遥感,,890 km × 890 km,77.6°,[[猎鹰9号]] v1.2 (Block 5),2022年12月16日,[[范登堡空军基地|范]] SLC-4E,3年 （设计）,~ 2200 kg,2022-173A,54754,
+气象卫星三代-成像1号,"MTG-I 1, 2, 3, 4 (Meteosat 12, 14, 15, 17).jpg",,MTG-I 1 (Meteosat 12),欧洲,"[[阿莱尼亚宇航公司]] （初）, [[OHB系统有限公司]] （平台）",气象,[[GEO]],,,[[阿丽亚娜5]]ECA+,2022年12月13日,[[圭亚那航天中心|圭]] ELA-3,8.5年,3760 kg (#1),2022-170C,54743,
+月球手电筒,Lunar Flashlight.jpg,,Lunar Flashlight,美国,[[NASA]] [[喷气推进实验室]],深空探测（月球）,,,,[[猎鹰9号]] v1.2 (Block 5),2022年12月11日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,< 2年,~14 kg,2022-168B,54697,
+太空金枪鱼1号,SpaceTuna 1.jpg,,SpaceTuna 1,日本,[[近代大学]],技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[安塔瑞斯]]-230+,2022年11月7日,[[沃洛普斯飞行设施|沃]]-0A,~ 6个月,1 kg,TBD,,
+塔卡,Bird (2U)(Taka).jpg,,Taka,"日本, 孟加拉国, 加纳, 蒙古国, 尼日利亚, 菲律宾, 不丹, 马来西亚, 尼泊尔, 斯里兰卡, 巴拉圭, 乌干达, 津巴布韦",[[九州工业大学]] (Kyutech),技术试验，科学与教育,,400 km × 400 km （典型）,51.6°,[[安塔瑞斯]]-230+,2022年11月7日,[[沃洛普斯飞行设施|沃]]-0A,~ 6个月,1 kg,TBD,,
+中间层气辉-气溶胶层析成像和光谱,MATS.jpg,,MATS,瑞典,"[[OHB系统有限公司|OHB]], [[AAC微电子科技公司]] （平台）; [[斯德哥尔摩大学]], [[查尔姆斯理工大学]], [[瑞典皇家工学院]]",科学与教育,,580 km × 598 km,97.7°,[[电子号]] KS (R),2022年11月4日,[[火箭实验室发射综合体1号|火]] LC-1B,2年,50 kg,2022-147A,54227,
+苔原16L,"Tundra (Kupol, EKS, 14F142).jpg",,"Kosmos 2563 (Tundra 16L, Kupol 16L, EKS #6)",俄罗斯,[[科梅塔中央科学研究所]] （初）; [[俄罗斯能源火箭公司]] （平台）,军事（预警），通信,,1626 km × 38552 km,63.37°,[[联盟2]]-1b Fregat,2022年11月2日,[[普列谢茨克航天发射场|普]] LC-43/4,7.5年,,2022-145A,54223,苔原卫星系列
+飓风M-61,"Uragan-M (GLONASS-M, 14F113).jpg",,"Kosmos 2564 (Uragan-M #61, GLONASS-M №761)",俄罗斯,[[列舍特涅夫卫星信息系统|普里克拉德诺伊·梅哈尼基设计局]] (NPO PM),导航,,19100 km × 19100 km （典型）,64.8°,[[联盟2]]-1b Fregat,2022年11月28日,[[普列谢茨克航天发射场|普]] LC-43/3,7年,1415 kg,2022-161A,54377,格洛纳斯系列
+但丁卫星,DANTESat.jpg,,DANTESat,意大利,[[空间头脑]],技术试验,,,,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,TBD,,
+印度纳卫星2B,INS 2B (BhutanSat).jpg,,INS 2B (BhutanSat),"印度, 不丹",[[印度空间研究组织]],遥感,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,6个月,18 kg,2022-158E,54365,印度纳卫星系列
+低轨道侦察图像卫星,LORIS (DUCS).jpg,,LORIS (DUCS),加拿大,[[戴尔豪斯大学]],技术试验,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,TBD,,
+苏里亚卫星1号,SS 1 (Surya Satellite 1).jpg,,SS 1 (Surya Satellite 1),印度尼西亚,[[苏里亚大学]],技术试验,,400 km × 400 km (typical,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,1 kg,TBD,,
+皮克塞尔TD-1,Pixxel-TD 1 (Anand).jpg,,Pixxel-TD 1 (Anand),印度,[[皮克塞尔公司]],遥感,,,,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,16.5 kg,2022-158F,54366,
+海洋卫星3号,"Oceansat 3, 3A (EOS 06).jpg",,Oceansat 3 (EOS 06),印度,[[印度空间研究组织]],遥感,,729 km × 748 km,98.34°,[[印度极轨卫星发射器]]-XL,2022年11月26日,[[萨迪什·达万航天中心|萨]] FLP,,1117 kg,2022-158A,54361,
+电离层-热层等离子体增强卫星,PetitSat.jpg,,PetitSat,美国,[[戈达德太空飞行中心]],遥感（电离层）,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,TBD,,
+闪烁预测观测研究任务,SPORT.jpg,,SPORT,"巴西, 美国","[[巴西航空科技大学]], [[NASA]]",技术试验,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,1年,,TBD,,
+托马斯杰斐逊高中科研教育评估无线电广播卫星,TJREVERB.jpg,,TJREVERB,美国,[[托马斯·杰斐逊科技高中]] (TJHSST),技术试验,,400 km × 400 km （典型）,51.6°,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,2 kg,TBD,,
+在轨致动器响应和阻抗测量卫星,MARIO.jpg,,MARIO,美国,[[密歇根大学]],技术试验,,,,[[猎鹰9号]] v1.2 (Block 5),2022年11月26日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,TBD,,
+欧洲通信卫星10B,Eutelsat 10B.jpg,,Eutelsat 10B,国际,[[阿莱尼亚宇航公司]],通信,[[GEO]],,,[[猎鹰9号]] v1.2 (Block 5)(ex),2022年11月23日,[[卡纳维拉尔角太空军基地|卡]] SLC-40,15年,5500 kg,2022-157A,54259,欧洲通信卫星系列
+牧羊人示范卫星,Shepherd Demonstration.jpg,,"Shepherd Demonstration (USA 339, USSF 44 PL1, AFSPC 44 PL1)",美国,,技术试验,[[GEO]],,,[[重型猎鹰]] (Block 5)(px),2022年11月1日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-144B,54220,
+阿尔派,Alpine.jpg,,Alpine,美国,[[千年空间系统]],技术试验,,,,[[重型猎鹰]] (Block 5)(px),2022年11月1日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,,,2022-144,54219,
+LDPE卫星2号,"LDPE 1, 2, 3A (ROOSTER 1, 2, 3A).jpg",,LDPE 2 (ROOSTER 2),美国,[[轨道ATK公司]] → [[诺思罗普·格鲁曼]],技术试验,[[GEO]],,,[[重型猎鹰]] (Block 5)(px),2022年11月1日,[[卡纳维拉尔角太空军基地|卡]]K LC-39A,1年,,2022-144A,54219,
+迈尔斯,Miles.jpg,,Miles,美国,[[迈尔斯空间]],深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,54257,
+阿尔戈月球立方星,ArgoMoon.jpg,,ArgoMoon,意大利,[[阿尔戈科技公司]],深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,54257,
+太阳粒子研究立方星任务,CuSP (CuSPP+).jpg,,CuSP (ex CuSPP+),美国,[[西南研究所]],科学与教育（电离层，磁层）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,90天 (prime mission),,2022-156,54257,
+月球冰立方卫星,Lunar-IceCube.jpg,,Lunar-IceCube,美国,[[摩海德州立大学]],深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,54257,
+近地小行星侦察兵卫星,NEA-Scout.jpg,,NEA-Scout,美国,[[NASA]] [[喷气推进实验室]],深空探测（小行星）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,2.5年,~12 kg,2022-156,54257,
+月球极区氢绘图仪立方星,LunaH-Map (SIMPLEx 1).jpg,,LunaH-Map (SIMPLEx 1),美国,[[NASA]] [[喷气推进实验室]],深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,< 2年,~14 kg,2022-156,54257,
+地月拉格朗日点6U立方星,EQUULEUS.jpg,,EQUULEUS,日本,"[[JAXA]], [[东京大学]]",深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,,
+月球红外成像立方星,LunIR (SkyFire).jpg,,LunIR (ex SkyFire),美国,"[[洛克希德·马丁]]; [[特瓦克纳米卫星系统公司]],  （平台）",深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,,
+好客号,OMOTENASHI.jpg,,OMOTENASHI,日本,"[[JAXA]], [[东京大学]]",深空探测（月球）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,54257,
+生物哨兵卫星,BioSentinel.jpg,,BioSentinel,美国,[[艾姆斯研究中心]],科学与教育（生命科学）,,,,[[太空发射系统]] (Block 1) iCPS,2022年11月16日,[[卡纳维拉尔角太空军基地|卡]]K LC-39B,,~14 kg,2022-156,54257,
+澳门学生科普卫星一号,"XW 4 (CAS 10, Macau Student Science 1).jpg",,"XW 4 (CAS 10, Macau Student Science 1)",中国,[[中国业余卫星组织]],科学与教育（业余无线电）,,,,[[长征七号]],2022年11月12日,[[文昌航天发射场|文昌]] LC-201,,,2022-152C,54257,中国业余无线电卫星系列
+云海三号01星,Yunhai-3 01.jpg,,Yunhai-3 01,中国,,"气象, 遥感",,,,[[长征六号甲]],2022年11月11日,[[太原卫星发射中心|太原]] LC-9A,,,2022-151A,54239,云海卫星系列
+充气减速器低地球轨道飞行测试,LOFTID.jpg,,LOFTID,美国,[[兰利研究中心]],技术试验,,,,[[宇宙神5]](401),2022年11月10日,[[范登堡空军基地|范]] SLC-3E,< 1天,1224 kg,2022-150#,54234,
+国家海洋和大气管理局21号,"JPSS 2, 3, 4.jpg",,JPSS 2 (NOAA 21),美国,[[诺思罗普·格鲁曼]]创新系统 (NGIS) (前身是 [[轨道ATK公司]]),气象,[[SSO]],824 km ,,[[宇宙神5]](401),2022年11月10日,[[范登堡空军基地|范]] SLC-3E,7年,2930 kg,2022-150A,54234,国家海洋和大气管理局卫星系列
+先进天基太阳天文台,ASO-S (Kuafu).jpg,,ASO-S (Kuafu),中国,,科学与教育（天文）,[[SSO]],720 km ,,[[长征二号丁]] (2),2022年10月8日,[[酒泉卫星发射中心|酒泉]] LC-43/94,4年,888 kg,2022-129A,54029,
+阿戈斯4号,GAzelle (Argos-4).jpg,,GAzelle (Argos-4) (ex OTB 3),美国,[[通用原子能公司]],技术试验,,,,[[电子号]] KS,2022年10月7日,[[火箭实验室发射综合体1号|火]] LC-1B,5年,,2022-127A,54023,
+斯基泰人D星,Skif-D (14F149).jpg,,Skif-D (14F149 №Kh001),俄罗斯,[[列舍特涅夫卫星信息系统]],通信,,,,[[联盟2]]-1b Fregat,2022年10月22日,[[沃斯托克尼航天发射场|沃斯托克]] LC-1S,,160 kg,2022-139,54150,
+福萨卫星1b(2),"FossaSat 1, 1b.jpg",,FossaSat 1b (2),西班牙,,技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,0.2 kg,2022-122#,53955,福萨卫星系列
+科技教育卫星15号,TechEdSat 15 (TES 15).jpg,,TechEdSat 15 (TES 15),美国,[[艾姆斯研究中心]],技术试验，科学与教育,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,,2022-122C ?,,科技教育卫星系列
+静谧2号,Serenity.jpg,,Serenity (2),美国,[[太空老师]],技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,,2022-122A ?,,
+萤火虫胶囊2号,Spinnaker-3 (CP 15) / Firefly Capsule 1.jpg,,Firefly Capsule 2,美国,"[[加州理工大学]], [[普渡大学]], [[NASA]], [[萤火虫航天]]",技术试验,,,,[[萤火虫-阿尔法]],2022年10月1日,[[范登堡空军基地|范]] SLC-2W,,,2022-122E,53959,
+环境减灾二号E星,"HJ 2E, 2F.jpg",,HJ 2E (5m S-SAR 01),中国,[[五院]],遥感（雷达）,,,,[[长征二号丙]] (3),2022年10月13日,[[太原卫星发射中心|太原]] LC-9,,,2022-132A,54035,环境减灾卫星系列
+快速创新载荷演示卫星3号,RAISE 3.jpg,,RAISE 3,日本,[[JAXA]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,14 个月,110 kg,2022-F05,,快速创新载荷演示系列
+未来科学研究所卫星,FSI-SAT.jpg,,FSI-SAT,日本,[[未来科学研究所]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,1 kg,2022-F05,,
+三叶号,MITSUBA.jpg,,MITSUBA,日本,[[九州工业大学]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,1.7 kg,2022-F05,,
+弧线2号,KOSEN 2.jpg,,KOSEN 2,日本,[[高知工业高等专门学校]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,2.7 kg,2022-F05,,
+安哥拉卫星2号,AngoSat 2.jpg,,AngoSat 2,安哥拉,[[列舍特涅夫卫星信息系统]],通信,[[GEO]],,,[[质子M]] Blok-DM-03,2022年10月12日,[[拜科努尔航天发射场|拜]] LC-81/24,15年,1964 kg,2022-131A,54033,
+早稻田卫星0号,Waseda-SAT 0.jpg,,Waseda-SAT 0,日本,[[早稻田大学]],技术试验,,,,[[艾普斯龙]] CLPS,2022年10月12日,[[内之浦航天中心|内]] LP-M,,1 kg,2022-F05,,早稻田卫星系列
+泰景卫星,Taijing-2 01.jpg.jpg,,Taijing,中国,[[微纳星空]],遥感,,,,,,,,,,,
+起源卫星,"GENESIS L, -N.jpg",,GENESIS,西班牙,[[西班牙业余卫星组织]],技术试验,,,,,,,,,,,
+丘比克卫星,"Qubik 1, 2, 3, 4, 5, 6.jpg",,Qubik,希腊,[[利布勒空间基金会]],技术试验,,,,,,,,,,,
+QPS合成孔径雷达,"QPS-SAR 3, 4, 5.jpg",,QPS-SAR,日本,[[株式会社QPS研究所]],遥感 （雷达）,,,,,,,,,,,
+条纹X,StriX α.jpg.jpg,StriX alpha,StriX,日本,[[数据合成观]],遥感 （雷达）,,,,,,,,,,,
+蓝行者,BlueWalker 3 (BW 3).jpg,,BlueWalker,美国,[[纳米航空电子设备公司]],通信,,,,,,,,,,,
+中国业余无线电卫星,CAS 5B.jpg,,CAS,中国,科学与教育、技术试验,,,,,,,,,,,,
+环境减灾卫星,"HJ 2E, 2F.jpg",,HJ JianZai,中国,[[五院]],遥感 （雷达）,,,,,,,,,,,
+快速创新载荷演示,RAISE 3.jpg,,RAISE,日本,[[JAXA]],技术试验,,,,,,,,,,,
+早稻田卫星,Waseda-SAT 0.jpg,,Waseda-SAT,日本,[[早稻田大学]],技术试验,,,,,,,,,,,
